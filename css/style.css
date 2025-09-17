@@ -95,6 +95,7 @@
         .pricing-card {
             background: #000F0F;
             color: #00C59A;
+            border: #00C59A solid 2px;
             border-radius: 15px;
             padding: 30px;
             text-align: center;
@@ -200,7 +201,7 @@
             }
             
             .pricing-card {
-                padding: 20px;
+                padding: 60px;
             }
             
             .plan-price {
