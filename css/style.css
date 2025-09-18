@@ -201,7 +201,7 @@
             }
             
             .pricing-card {
-                padding: 100px;
+                padding: 20px;
             }
             
             .plan-price {
@@ -276,5 +276,6 @@
             font-weight: bold;
             transform: rotate(45deg);
         }
+
 
 
